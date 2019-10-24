@@ -2,7 +2,7 @@
 
 This is a Maven project exemplifying the Hibernate validator for forms.
 
-I decided to go with ol' Spring MVC (no Boot) with an ol' XML configuration (no Java config for now).
+I decided to go with ol' Spring MVC (no Boot) with an ol' XML configuration (no Java config for now). Templates are JSP pages with basic styling with Bootstrap and custom CSS.
 
 The validator uses custom validation rules:
 
