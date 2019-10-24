@@ -1,0 +1,18 @@
+.container {
+	margin-top: 20px;
+}
+
+h2 {
+	margin-bottom: 1.5rem;
+}
+
+.subtitle {
+	font-weight: bold;
+}
+
+.form-error {
+	color: red;
+	font-size: small;
+	padding-left: 15px;
+}
+
